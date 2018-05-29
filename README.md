@@ -1,7 +1,7 @@
 Using AWS SageMaker/PlanesNet to process Satellite Imagery  
 ===========================================
 
-This solution shows how to process map imagery using AWS SageMaker and PlanesNet to build an AI Model to predict aircraft. This readme updates an article "Detect airplanes in Planet imagery using machine learning" by Bob Hammell referenced below and provides a more basic step by step process.
+This solution shows how to process satellite imagery using AWS SageMaker and PlanesNet to build an AI Model to predict aircraft. This readme updates an article "Detect airplanes in Planet imagery using machine learning" by Bob Hammell referenced below and provides a more basic step by step process.
 
 We'll start a Jupyter Notebook using AWS SageMaker.  We can then use the Jupyter Notebook to predict aircraft in the satellite imagery.
 
@@ -39,5 +39,5 @@ Once the notebook is uploaded, click on the notebook to open it.
 Run each cell Step by Step
 
 ## References
-Detect airplanes in Planet imagery using machine learning
+Detect airplanes in Planet imagery using machine learning  
 https://github.com/rhammell/planesnet-detector
