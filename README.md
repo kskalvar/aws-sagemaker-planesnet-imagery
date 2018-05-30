@@ -29,14 +29,14 @@ Actions: Open  # it will show pending until it's ready to open
 
 This will open the Jupyter Notebook in a new tab in your browser.
 
-#### Upload planesnet.json.zip
+#### Upload planesnet.json.zip using Jupyter Notebook
 Click on "Upload" and Select "planesnet.json.zip" from project dataset directory 
 
 
-#### Upload Jupyter Notebook
+#### Upload aws-sagemaker-planesnet.ipynb using Jupyter Notebook
 Click on "Upload" and Select "aws-sagemaker-planesnet.ipynb" from project jupyter-notebook directory 
 
-Once the notebook is uploaded, click on the notebook to open it.  
+Once the notebook is uploaded, click on "aws-sagemaker-planesnet.ipynb" to open it.  
 Run each cell Step by Step
 
 ## References
