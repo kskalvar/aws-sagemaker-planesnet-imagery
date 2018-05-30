@@ -11,9 +11,9 @@ Use the AWS Console to configure a SageMaker Instance for processing satellite d
 
 ### AWS SageMaker Dashboard
 Click on "Notebook instances"  
-Click on "Create notebook instance"
-Notebook instance name: planesnet 
-Notebook instance type: ml.t2.medium  
+Click on "Create notebook instance"  
+Notebook instance name: planesnet  
+Notebook instance type: ml.t2.medium   
 IAM Role: Create a new role  
 ```
 S3 buckets you specify - optional:
