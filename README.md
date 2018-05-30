@@ -10,14 +10,14 @@ We'll start a Jupyter Notebook using AWS SageMaker.  We can then use the Jupyter
 Use the AWS Console to configure a SageMaker Instance for processing satellite data.  This is a step by step process.
 
 ### AWS SageMaker Dashboard
-Click on "Notebook instances"
+Click on "Notebook instances"  
 Click on "Create notebook instance"
 Notebook instance name: planesnet 
 Notebook instance type: ml.t2.medium  
 IAM Role: Create a new role  
 ```
 S3 buckets you specify - optional:
-Select None
+Select "None"
 Click on "Create role"
 ```
 Click on "Create notebook instance"
